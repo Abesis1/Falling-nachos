@@ -1,0 +1,18 @@
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\bin\Debug\net6.0-windows\Falling nachos.exe
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\bin\Debug\net6.0-windows\Falling nachos.deps.json
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\bin\Debug\net6.0-windows\Falling nachos.runtimeconfig.json
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\bin\Debug\net6.0-windows\Falling nachos.dll
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\bin\Debug\net6.0-windows\Falling nachos.pdb
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.csproj.AssemblyReference.cache
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling_nachos.Form1.resources
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling_nachos.Properties.Resources.resources
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.csproj.GenerateResource.cache
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.GeneratedMSBuildEditorConfig.editorconfig
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.AssemblyInfoInputs.cache
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.AssemblyInfo.cs
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.csproj.CoreCompileInputs.cache
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.dll
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\refint\Falling nachos.dll
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.pdb
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\Falling nachos.genruntimeconfig.cache
+G:\programovanie\Visual c# (moje)\Falling nachos\Falling nachos\obj\Debug\net6.0-windows\ref\Falling nachos.dll
