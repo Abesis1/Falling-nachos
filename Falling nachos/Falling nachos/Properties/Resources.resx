@@ -121,6 +121,9 @@
   <data name="player_right1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\player_right1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="player_right2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\player_right2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="player_left" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\player_left.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -133,16 +136,16 @@
   <data name="player_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\player_right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="player_left2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\player_left2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="player_left1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\player_left1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="floor" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\floor.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="player_left2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\player_left2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="player_right2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\player_right2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="onion" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\onion.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
